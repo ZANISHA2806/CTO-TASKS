@@ -1,0 +1,162 @@
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS SUCCESS Payment success Rs.5000.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL SUCCESS Payment success Rs.5000.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U001 PUSH SUCCESS Payment success Rs.5000.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS FAILURE Payment failed Rs.1200.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL FAILURE Payment failed Rs.1200.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U002 EMAIL REFUND Refund processed Rs.900.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U002 PUSH REFUND Refund processed Rs.900.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U003 EMAIL DISPUTE_RAISED Dispute raised for Rs.7000.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U003 PUSH DISPUTE_RAISED Dispute raised for Rs.7000.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U002 SMS DISPUTE_RESOLVED Dispute resolved for Rs.3000.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U002 EMAIL DISPUTE_RESOLVED Dispute resolved for Rs.3000.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS SUCCESS Payment success Rs.2500.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL SUCCESS Payment success Rs.2500.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U001 PUSH SUCCESS Payment success Rs.2500.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U003 SMS FAILURE Payment failed Rs.1500.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U003 EMAIL FAILURE Payment failed Rs.1500.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U002 EMAIL REFUND Refund processed Rs.600.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U002 PUSH REFUND Refund processed Rs.600.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U003 SMS SUCCESS Payment success Rs.8000.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U003 EMAIL SUCCESS Payment success Rs.8000.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U003 PUSH SUCCESS Payment success Rs.8000.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS DISPUTE_RESOLVED Dispute resolved for Rs.1000.0
+Apr 28, 2026 5:26:00 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL DISPUTE_RESOLVED Dispute resolved for Rs.1000.0
+Apr 28, 2026 5:26:00 PM main.Main main
+INFO: Summary U001: {SMS=4, EMAIL=4, PUSH=2}
+Apr 28, 2026 5:26:00 PM main.Main main
+INFO: Summary U002: {SMS=1, EMAIL=3, PUSH=2}
+Apr 28, 2026 5:26:00 PM main.Main main
+INFO: Summary U003: {SMS=2, EMAIL=3, PUSH=2}
+Apr 28, 2026 5:26:00 PM main.Main main
+INFO: Most active event: SUCCESS
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS SUCCESS Payment success Rs.5000.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL SUCCESS Payment success Rs.5000.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U001 PUSH SUCCESS Payment success Rs.5000.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS FAILURE Payment failed Rs.1200.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL FAILURE Payment failed Rs.1200.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U002 EMAIL REFUND Refund processed Rs.900.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U002 PUSH REFUND Refund processed Rs.900.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U003 EMAIL DISPUTE_RAISED Dispute raised for Rs.7000.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U003 PUSH DISPUTE_RAISED Dispute raised for Rs.7000.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U002 SMS DISPUTE_RESOLVED Dispute resolved for Rs.3000.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U002 EMAIL DISPUTE_RESOLVED Dispute resolved for Rs.3000.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS SUCCESS Payment success Rs.2500.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL SUCCESS Payment success Rs.2500.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U001 PUSH SUCCESS Payment success Rs.2500.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U003 SMS FAILURE Payment failed Rs.1500.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U003 EMAIL FAILURE Payment failed Rs.1500.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U002 EMAIL REFUND Refund processed Rs.600.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U002 PUSH REFUND Refund processed Rs.600.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U003 SMS SUCCESS Payment success Rs.8000.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U003 EMAIL SUCCESS Payment success Rs.8000.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U003 PUSH SUCCESS Payment success Rs.8000.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS DISPUTE_RESOLVED Dispute resolved for Rs.1000.0
+Apr 30, 2026 12:15:45 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL DISPUTE_RESOLVED Dispute resolved for Rs.1000.0
+Apr 30, 2026 12:15:45 PM main.Main main
+INFO: Summary U001: {SMS=4, EMAIL=4, PUSH=2}
+Apr 30, 2026 12:15:45 PM main.Main main
+INFO: Summary U002: {SMS=1, EMAIL=3, PUSH=2}
+Apr 30, 2026 12:15:45 PM main.Main main
+INFO: Summary U003: {SMS=2, EMAIL=3, PUSH=2}
+Apr 30, 2026 12:15:45 PM main.Main main
+INFO: Most active event: SUCCESS
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS SUCCESS Payment success Rs.5000.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL SUCCESS Payment success Rs.5000.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U001 PUSH SUCCESS Payment success Rs.5000.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS FAILURE Payment failed Rs.1200.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL FAILURE Payment failed Rs.1200.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U002 EMAIL REFUND Refund processed Rs.900.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U002 PUSH REFUND Refund processed Rs.900.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U003 EMAIL DISPUTE_RAISED Dispute raised for Rs.7000.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U003 PUSH DISPUTE_RAISED Dispute raised for Rs.7000.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U002 SMS DISPUTE_RESOLVED Dispute resolved for Rs.3000.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U002 EMAIL DISPUTE_RESOLVED Dispute resolved for Rs.3000.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS SUCCESS Payment success Rs.2500.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL SUCCESS Payment success Rs.2500.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U001 PUSH SUCCESS Payment success Rs.2500.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U003 SMS FAILURE Payment failed Rs.1500.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U003 EMAIL FAILURE Payment failed Rs.1500.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U002 EMAIL REFUND Refund processed Rs.600.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U002 PUSH REFUND Refund processed Rs.600.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U003 SMS SUCCESS Payment success Rs.8000.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U003 EMAIL SUCCESS Payment success Rs.8000.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U003 PUSH SUCCESS Payment success Rs.8000.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U001 SMS DISPUTE_RESOLVED Dispute resolved for Rs.1000.0
+Apr 30, 2026 1:26:02 PM service.NotificationService dispatch
+INFO: Dispatched: U001 EMAIL DISPUTE_RESOLVED Dispute resolved for Rs.1000.0
+Apr 30, 2026 1:26:02 PM main.Main main
+INFO: Summary U001: {SMS=4, EMAIL=4, PUSH=2}
+Apr 30, 2026 1:26:02 PM main.Main main
+INFO: Summary U002: {SMS=1, EMAIL=3, PUSH=2}
+Apr 30, 2026 1:26:02 PM main.Main main
+INFO: Summary U003: {SMS=2, EMAIL=3, PUSH=2}
+Apr 30, 2026 1:26:02 PM main.Main main
+INFO: Most active event: SUCCESS
