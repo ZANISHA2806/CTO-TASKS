@@ -1,0 +1,324 @@
+Apr 28, 2026 9:21:27 PM main.Main main
+INFO: Portfolio Risk Aggregator Started
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added RELIANCE
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added TCS
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added INFY
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added GOV_BOND
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added CORP_BOND
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added TREASURY
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added GOLD
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added SILVER
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added CRUDE
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added USDINR
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added EURINR
+Apr 28, 2026 9:21:27 PM service.RiskAggregator addPosition
+INFO: Added JPYINR
+Apr 28, 2026 9:21:27 PM main.Main main
+INFO: Total Portfolio Value : Rs.10000000.00
+Apr 28, 2026 9:21:27 PM main.Main main
+INFO: Exposure By Asset Class
+Apr 28, 2026 9:21:27 PM main.Main main
+INFO: EQUITY : Rs.6500000.00 (65.00%)
+Apr 28, 2026 9:21:27 PM main.Main main
+INFO: COMMODITY : Rs.800000.00 (8.00%)
+Apr 28, 2026 9:21:27 PM main.Main main
+INFO: BOND : Rs.2200000.00 (22.00%)
+Apr 28, 2026 9:21:27 PM main.Main main
+INFO: FOREX : Rs.500000.00 (5.00%)
+Apr 28, 2026 9:21:27 PM main.Main main
+INFO: Largest Position : TCS EQUITY Rs.2500000.00
+Apr 28, 2026 9:21:27 PM main.Main main
+INFO: Checking Allocation Breaches
+Apr 28, 2026 9:21:27 PM service.RiskAggregator checkBreaches
+WARNING: EQUITY breach detected
+Apr 28, 2026 9:21:27 PM service.RiskAggregator checkBreaches
+INFO: COMMODITY within limit
+Apr 28, 2026 9:21:27 PM service.RiskAggregator checkBreaches
+INFO: BOND within limit
+Apr 28, 2026 9:21:27 PM service.RiskAggregator checkBreaches
+INFO: FOREX within limit
+Apr 28, 2026 9:21:27 PM main.Main main
+INFO: Unrealised PnL : Rs.590000.00
+Apr 28, 2026 9:21:27 PM main.Main main
+INFO: Portfolio Risk Aggregator Completed
+Apr 29, 2026 10:58:51 AM main.Main main
+INFO: Portfolio Risk Aggregator Started
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added RELIANCE
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added TCS
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added INFY
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added GOV_BOND
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added CORP_BOND
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added TREASURY
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added GOLD
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added SILVER
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added CRUDE
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added USDINR
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added EURINR
+Apr 29, 2026 10:58:52 AM service.RiskAggregator addPosition
+INFO: Added JPYINR
+Apr 29, 2026 10:58:52 AM main.Main main
+INFO: Total Portfolio Value : Rs.10000000.00
+Apr 29, 2026 10:58:52 AM main.Main main
+INFO: Exposure By Asset Class
+Apr 29, 2026 10:58:52 AM main.Main main
+INFO: EQUITY : Rs.6500000.00 (65.00%)
+Apr 29, 2026 10:58:52 AM main.Main main
+INFO: COMMODITY : Rs.800000.00 (8.00%)
+Apr 29, 2026 10:58:52 AM main.Main main
+INFO: BOND : Rs.2200000.00 (22.00%)
+Apr 29, 2026 10:58:52 AM main.Main main
+INFO: FOREX : Rs.500000.00 (5.00%)
+Apr 29, 2026 10:58:52 AM main.Main main
+INFO: Largest Position : TCS EQUITY Rs.2500000.00
+Apr 29, 2026 10:58:52 AM main.Main main
+INFO: Checking allocation breaches
+Apr 29, 2026 10:58:52 AM service.RiskAggregator checkBreaches
+WARNING: EQUITY breach detected
+Apr 29, 2026 10:58:52 AM service.RiskAggregator checkBreaches
+INFO: COMMODITY within limit
+Apr 29, 2026 10:58:52 AM service.RiskAggregator checkBreaches
+INFO: BOND within limit
+Apr 29, 2026 10:58:52 AM service.RiskAggregator checkBreaches
+INFO: FOREX within limit
+Apr 29, 2026 10:58:52 AM main.Main main
+INFO: Unrealised PnL : +Rs.590000.00
+Apr 29, 2026 10:58:52 AM main.Main main
+INFO: Portfolio Risk Aggregator Completed
+Apr 29, 2026 3:46:31 PM main.Main main
+INFO: Portfolio Risk Aggregator Started
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added RELIANCE
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added TCS
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added INFY
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added GOV_BOND
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added CORP_BOND
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added TREASURY
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added GOLD
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added SILVER
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added CRUDE
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added USDINR
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added EURINR
+Apr 29, 2026 3:46:31 PM service.RiskAggregator addPosition
+INFO: Added JPYINR
+Apr 29, 2026 3:46:31 PM main.Main main
+INFO: Total Portfolio Value : Rs.10000000.00
+Apr 29, 2026 3:46:31 PM main.Main main
+INFO: Exposure By Asset Class
+Apr 29, 2026 3:46:31 PM main.Main main
+INFO: EQUITY : Rs.6500000.00 (65.00%)
+Apr 29, 2026 3:46:31 PM main.Main main
+INFO: COMMODITY : Rs.800000.00 (8.00%)
+Apr 29, 2026 3:46:31 PM main.Main main
+INFO: BOND : Rs.2200000.00 (22.00%)
+Apr 29, 2026 3:46:31 PM main.Main main
+INFO: FOREX : Rs.500000.00 (5.00%)
+Apr 29, 2026 3:46:31 PM main.Main main
+INFO: Largest Position : TCS EQUITY Rs.2500000.00
+Apr 29, 2026 3:46:31 PM main.Main main
+INFO: Checking allocation breaches
+Apr 29, 2026 3:46:31 PM service.RiskAggregator checkBreaches
+WARNING: EQUITY breach detected
+Apr 29, 2026 3:46:31 PM service.RiskAggregator checkBreaches
+INFO: COMMODITY within limit
+Apr 29, 2026 3:46:31 PM service.RiskAggregator checkBreaches
+INFO: BOND within limit
+Apr 29, 2026 3:46:31 PM service.RiskAggregator checkBreaches
+INFO: FOREX within limit
+Apr 29, 2026 3:46:31 PM main.Main main
+INFO: Unrealised PnL : +Rs.590000.00
+Apr 29, 2026 3:46:31 PM main.Main main
+INFO: Portfolio Risk Aggregator Completed
+Apr 30, 2026 10:30:50 AM main.Main main
+INFO: Portfolio Risk Aggregator Started
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added RELIANCE
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added TCS
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added INFY
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added GOV_BOND
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added CORP_BOND
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added TREASURY
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added GOLD
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added SILVER
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added CRUDE
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added USDINR
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added EURINR
+Apr 30, 2026 10:30:50 AM service.RiskAggregator addPosition
+INFO: Added JPYINR
+Apr 30, 2026 10:30:50 AM main.Main main
+INFO: Total Portfolio Value : Rs.10000000.00
+Apr 30, 2026 10:30:50 AM main.Main main
+INFO: Exposure By Asset Class
+Apr 30, 2026 10:30:50 AM main.Main main
+INFO: EQUITY : Rs.6500000.00 (65.00%)
+Apr 30, 2026 10:30:50 AM main.Main main
+INFO: COMMODITY : Rs.800000.00 (8.00%)
+Apr 30, 2026 10:30:50 AM main.Main main
+INFO: BOND : Rs.2200000.00 (22.00%)
+Apr 30, 2026 10:30:50 AM main.Main main
+INFO: FOREX : Rs.500000.00 (5.00%)
+Apr 30, 2026 10:30:50 AM main.Main main
+INFO: Largest Position : TCS EQUITY Rs.2500000.00
+Apr 30, 2026 10:30:50 AM main.Main main
+INFO: Checking allocation breaches
+Apr 30, 2026 10:30:50 AM service.RiskAggregator checkBreaches
+WARNING: EQUITY breach detected
+Apr 30, 2026 10:30:50 AM service.RiskAggregator checkBreaches
+INFO: COMMODITY within limit
+Apr 30, 2026 10:30:50 AM service.RiskAggregator checkBreaches
+INFO: BOND within limit
+Apr 30, 2026 10:30:50 AM service.RiskAggregator checkBreaches
+INFO: FOREX within limit
+Apr 30, 2026 10:30:50 AM main.Main main
+INFO: Unrealised PnL : +Rs.590000.00
+Apr 30, 2026 10:30:50 AM main.Main main
+INFO: Portfolio Risk Aggregator Completed
+Apr 30, 2026 11:26:56 AM main.Main main
+INFO: Portfolio Risk Aggregator Started
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added RELIANCE
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added TCS
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added INFY
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added GOV_BOND
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added CORP_BOND
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added TREASURY
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added GOLD
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added SILVER
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added CRUDE
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added USDINR
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added EURINR
+Apr 30, 2026 11:26:56 AM service.RiskAggregator addPosition
+INFO: Added JPYINR
+Apr 30, 2026 11:26:56 AM main.Main main
+INFO: Total Portfolio Value : Rs.10000000.00
+Apr 30, 2026 11:26:56 AM main.Main main
+INFO: Exposure By Asset Class
+Apr 30, 2026 11:26:56 AM main.Main main
+INFO: EQUITY : Rs.6500000.00 (65.00%)
+Apr 30, 2026 11:26:56 AM main.Main main
+INFO: COMMODITY : Rs.800000.00 (8.00%)
+Apr 30, 2026 11:26:56 AM main.Main main
+INFO: BOND : Rs.2200000.00 (22.00%)
+Apr 30, 2026 11:26:56 AM main.Main main
+INFO: FOREX : Rs.500000.00 (5.00%)
+Apr 30, 2026 11:26:56 AM main.Main main
+INFO: Largest Position : TCS EQUITY Rs.2500000.00
+Apr 30, 2026 11:26:56 AM main.Main main
+INFO: Checking allocation breaches
+Apr 30, 2026 11:26:56 AM service.RiskAggregator checkBreaches
+WARNING: EQUITY breach detected
+Apr 30, 2026 11:26:56 AM service.RiskAggregator checkBreaches
+INFO: COMMODITY within limit
+Apr 30, 2026 11:26:56 AM service.RiskAggregator checkBreaches
+INFO: BOND within limit
+Apr 30, 2026 11:26:56 AM service.RiskAggregator checkBreaches
+INFO: FOREX within limit
+Apr 30, 2026 11:26:56 AM main.Main main
+INFO: Unrealised PnL : +Rs.590000.00
+Apr 30, 2026 11:26:56 AM main.Main main
+INFO: Portfolio Risk Aggregator Completed
+Apr 30, 2026 1:38:21 PM main.Main main
+INFO: Portfolio Risk Aggregator Started
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added RELIANCE
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added TCS
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added INFY
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added GOV_BOND
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added CORP_BOND
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added TREASURY
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added GOLD
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added SILVER
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added CRUDE
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added USDINR
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added EURINR
+Apr 30, 2026 1:38:21 PM service.RiskAggregator addPosition
+INFO: Added JPYINR
+Apr 30, 2026 1:38:21 PM main.Main main
+INFO: Total Portfolio Value : Rs.10000000.00
+Apr 30, 2026 1:38:21 PM main.Main main
+INFO: Exposure By Asset Class
+Apr 30, 2026 1:38:21 PM main.Main main
+INFO: EQUITY : Rs.6500000.00 (65.00%)
+Apr 30, 2026 1:38:21 PM main.Main main
+INFO: COMMODITY : Rs.800000.00 (8.00%)
+Apr 30, 2026 1:38:21 PM main.Main main
+INFO: BOND : Rs.2200000.00 (22.00%)
+Apr 30, 2026 1:38:21 PM main.Main main
+INFO: FOREX : Rs.500000.00 (5.00%)
+Apr 30, 2026 1:38:21 PM main.Main main
+INFO: Largest Position : TCS EQUITY Rs.2500000.00
+Apr 30, 2026 1:38:21 PM main.Main main
+INFO: Checking allocation breaches
+Apr 30, 2026 1:38:21 PM service.RiskAggregator checkBreaches
+WARNING: EQUITY breach detected
+Apr 30, 2026 1:38:21 PM service.RiskAggregator checkBreaches
+INFO: COMMODITY within limit
+Apr 30, 2026 1:38:21 PM service.RiskAggregator checkBreaches
+INFO: BOND within limit
+Apr 30, 2026 1:38:21 PM service.RiskAggregator checkBreaches
+INFO: FOREX within limit
+Apr 30, 2026 1:38:21 PM main.Main main
+INFO: Unrealised PnL : +Rs.590000.00
+Apr 30, 2026 1:38:21 PM main.Main main
+INFO: Portfolio Risk Aggregator Completed
