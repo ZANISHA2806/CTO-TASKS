@@ -1,0 +1,162 @@
+May 06, 2026 12:12:18 PM util.LoggerUtil error
+SEVERE: Card not found: C001
+May 06, 2026 12:12:18 PM util.LoggerUtil error
+SEVERE: Card not found: C002
+May 06, 2026 12:12:18 PM util.LoggerUtil error
+SEVERE: Card not found: C003
+May 06, 2026 12:12:18 PM util.LoggerUtil error
+SEVERE: Card not found: C004
+May 06, 2026 12:12:18 PM util.LoggerUtil error
+SEVERE: Card not found: C005
+May 06, 2026 12:12:42 PM util.LoggerUtil error
+SEVERE: Card not found: C001
+May 06, 2026 12:12:42 PM util.LoggerUtil error
+SEVERE: Card not found: C002
+May 06, 2026 12:12:42 PM util.LoggerUtil error
+SEVERE: Card not found: C003
+May 06, 2026 12:12:42 PM util.LoggerUtil error
+SEVERE: Card not found: C004
+May 06, 2026 12:12:42 PM util.LoggerUtil error
+SEVERE: Card not found: C005
+May 06, 2026 12:15:44 PM util.LoggerUtil info
+INFO: card loaded: C001
+May 06, 2026 12:15:44 PM util.LoggerUtil info
+INFO: card loaded: C002
+May 06, 2026 12:15:44 PM util.LoggerUtil error
+SEVERE: card suspension: C003
+May 06, 2026 12:15:44 PM util.LoggerUtil error
+SEVERE: Card C003 is suspended: reported last
+May 06, 2026 12:15:44 PM util.LoggerUtil info
+INFO: card loaded: C004
+May 06, 2026 12:15:44 PM util.LoggerUtil info
+INFO: card loaded: C005
+May 06, 2026 2:30:44 PM util.LoggerUtil info
+INFO: card loaded: C001
+May 06, 2026 2:30:45 PM util.LoggerUtil info
+INFO: card loaded: C002
+May 06, 2026 2:30:45 PM util.LoggerUtil error
+SEVERE: card suspension: C003
+May 06, 2026 2:30:45 PM util.LoggerUtil error
+SEVERE: Card C003 is suspended: reported last
+May 06, 2026 2:30:45 PM util.LoggerUtil info
+INFO: card loaded: C004
+May 06, 2026 2:30:45 PM util.LoggerUtil info
+INFO: card loaded: C005
+May 06, 2026 2:34:51 PM util.LoggerUtil info
+INFO: card loaded: C001
+May 06, 2026 2:34:51 PM util.LoggerUtil info
+INFO: card loaded: C002
+May 06, 2026 2:34:51 PM util.LoggerUtil error
+SEVERE: card suspension: C003
+May 06, 2026 2:34:51 PM util.LoggerUtil error
+SEVERE: Card C003 is suspended: reported last
+May 06, 2026 2:34:51 PM util.LoggerUtil info
+INFO: card loaded: C004
+May 06, 2026 2:34:51 PM util.LoggerUtil info
+INFO: card loaded: C005
+May 06, 2026 2:38:18 PM util.LoggerUtil info
+INFO: card loaded: C001
+May 06, 2026 2:38:18 PM util.LoggerUtil info
+INFO: card loaded: C002
+May 06, 2026 2:38:18 PM util.LoggerUtil error
+SEVERE: card suspension: C003
+May 06, 2026 2:38:18 PM util.LoggerUtil error
+SEVERE: Card C003 is suspended: reported lost
+May 06, 2026 2:38:18 PM util.LoggerUtil info
+INFO: card loaded: C004
+May 06, 2026 2:38:18 PM util.LoggerUtil info
+INFO: card loaded: C005
+May 06, 2026 2:43:06 PM util.LoggerUtil info
+INFO: card loaded: C001
+May 06, 2026 2:43:06 PM util.LoggerUtil info
+INFO: card loaded: C002
+May 06, 2026 2:43:06 PM util.LoggerUtil error
+SEVERE: card suspension: C003
+May 06, 2026 2:43:06 PM util.LoggerUtil error
+SEVERE: Card C003 is suspended: reported lost
+May 06, 2026 2:43:06 PM util.LoggerUtil info
+INFO: card loaded: C004
+May 06, 2026 2:43:06 PM util.LoggerUtil info
+INFO: card loaded: C005
+May 06, 2026 2:49:03 PM util.LoggerUtil error
+SEVERE: Rs.15000.0exceeds DAILYLIMITof rs.10000
+May 06, 2026 2:49:03 PM util.LoggerUtil info
+INFO: card loaded: C002
+May 06, 2026 2:49:03 PM util.LoggerUtil error
+SEVERE: card suspension: C003
+May 06, 2026 2:49:03 PM util.LoggerUtil error
+SEVERE: Card C003 is suspended: reported lost
+May 06, 2026 2:49:03 PM util.LoggerUtil info
+INFO: card loaded: C004
+May 06, 2026 2:49:03 PM util.LoggerUtil info
+INFO: card loaded: C005
+May 06, 2026 2:49:03 PM util.LoggerUtil error
+SEVERE: Rs.25000.0exceeds DAILYLIMITof rs.10000
+May 06, 2026 3:30:10 PM util.LoggerUtil error
+SEVERE: Rs.15000.0exceeds DAILYLIMITof rs.10000
+May 06, 2026 3:30:11 PM util.LoggerUtil error
+SEVERE: bob@upi-sourceVPA issue arised because the account is FROZEN
+May 06, 2026 3:30:11 PM util.LoggerUtil error
+SEVERE: card suspension: C003
+May 06, 2026 3:30:11 PM util.LoggerUtil error
+SEVERE: Card C003 is suspended: reported lost
+May 06, 2026 3:30:11 PM util.LoggerUtil info
+INFO: Account status: VALID
+May 06, 2026 3:30:11 PM util.LoggerUtil info
+INFO: card loaded: C004
+May 06, 2026 3:30:11 PM util.LoggerUtil info
+INFO: Account status: VALID
+May 06, 2026 3:30:11 PM util.LoggerUtil info
+INFO: card loaded: C005
+May 06, 2026 3:30:11 PM util.LoggerUtil error
+SEVERE: Rs.25000.0exceeds DAILYLIMITof rs.10000
+May 06, 2026 3:42:45 PM util.LoggerUtil error
+SEVERE: Rs.15000.0exceeds DAILYLIMITof rs.10000
+May 06, 2026 3:42:45 PM util.LoggerUtil error
+SEVERE: bob@upi-sourceVPA issue arised because the account is FROZEN
+May 06, 2026 3:42:45 PM util.LoggerUtil error
+SEVERE: card suspension: C003
+May 06, 2026 3:42:45 PM util.LoggerUtil error
+SEVERE: Card C003 is suspended: reported lost
+May 06, 2026 3:42:45 PM util.LoggerUtil info
+INFO: Account status: VALID
+May 06, 2026 3:42:45 PM util.LoggerUtil info
+INFO: card loaded: C004
+May 06, 2026 3:42:45 PM util.LoggerUtil info
+INFO: Account status: VALID
+May 06, 2026 3:42:45 PM util.LoggerUtil info
+INFO: card loaded: C005
+May 06, 2026 3:42:45 PM util.LoggerUtil error
+SEVERE: Rs.25000.0exceeds DAILYLIMITof rs.10000
+May 06, 2026 3:42:45 PM util.LoggerUtil error
+SEVERE: invalid@upi-sourceVPA issue arised because the account is INVALID
+May 06, 2026 4:33:50 PM util.LoggerUtil error
+SEVERE: Rs.15000.0exceeds DAILYLIMITof rs.10000
+May 06, 2026 4:33:50 PM util.LoggerUtil error
+SEVERE: bob@upi-sourceVPA issue arised because the account is FROZEN
+May 06, 2026 4:33:50 PM util.LoggerUtil error
+SEVERE: card suspension: C003
+May 06, 2026 4:33:50 PM util.LoggerUtil error
+SEVERE: Card C003 is suspended: reported lost
+May 06, 2026 4:33:50 PM util.LoggerUtil error
+SEVERE: loaded amount rs.4000.0failed amount rs.2000.0
+May 06, 2026 4:33:50 PM util.LoggerUtil info
+INFO: card loaded: C005
+May 06, 2026 4:33:50 PM util.LoggerUtil error
+SEVERE: Rs.25000.0exceeds DAILYLIMITof rs.10000
+May 06, 2026 4:33:50 PM util.LoggerUtil error
+SEVERE: invalid@upi-sourceVPA issue arised because the account is INVALID
+May 06, 2026 4:45:17 PM util.LoggerUtil error
+SEVERE: Rs.15000.0 exceeds daily-load limit of Rs.10000
+May 06, 2026 4:45:17 PM util.LoggerUtil error
+SEVERE: bob@upi is frozen
+May 06, 2026 4:45:17 PM util.LoggerUtil error
+SEVERE: card suspension: C003
+May 06, 2026 4:45:17 PM util.LoggerUtil error
+SEVERE: Card C003 is suspended: reported lost
+May 06, 2026 4:45:17 PM util.LoggerUtil info
+INFO: card loaded: C005
+May 06, 2026 4:45:17 PM util.LoggerUtil error
+SEVERE: Rs.25000.0 exceeds daily-load limit of Rs.10000
+May 06, 2026 4:45:17 PM util.LoggerUtil error
+SEVERE: invalid@upi is invalid
