@@ -1,0 +1,24 @@
+May 05, 2026 2:48:46 PM util.DividendLogger logSuccess
+INFO: S01: Gross Rs.2500.0 | TDS Rs.250.0 | Net Rs.2250.0 — DISBURSED
+May 05, 2026 2:48:46 PM util.DividendLogger logFailure
+SEVERE: S02: FAILED — no shares held on record date
+May 05, 2026 2:48:46 PM util.DividendLogger logHalt
+SEVERE: DIVIDEND HALT — DIVIDEND HALT triggered: failure rate 50.0% > threshold 30%
+May 05, 2026 2:48:46 PM util.DividendLogger logInfo
+INFO: S01: DISBURSED
+May 05, 2026 2:48:46 PM util.DividendLogger logInfo
+INFO: S02: no shares held on record date
+May 05, 2026 2:48:46 PM util.DividendLogger logInfo
+INFO: Processed=2 | Success=1 | Failed=1 | Failure rate=50.0%
+May 06, 2026 8:33:24 AM util.DividendLogger logSuccess
+INFO: S01: Gross Rs.2500.0 | TDS Rs.250.0 | Net Rs.2250.0 — DISBURSED
+May 06, 2026 8:33:24 AM util.DividendLogger logFailure
+SEVERE: S02: FAILED — no shares held on record date
+May 06, 2026 8:33:24 AM util.DividendLogger logHalt
+SEVERE: DIVIDEND HALT — DIVIDEND HALT triggered: failure rate 50.0% > threshold 30%
+May 06, 2026 8:33:24 AM util.DividendLogger logInfo
+INFO: S01: DISBURSED
+May 06, 2026 8:33:24 AM util.DividendLogger logInfo
+INFO: S02: no shares held on record date
+May 06, 2026 8:33:24 AM util.DividendLogger logInfo
+INFO: Processed=2 | Success=1 | Failed=1 | Failure rate=50.0%
