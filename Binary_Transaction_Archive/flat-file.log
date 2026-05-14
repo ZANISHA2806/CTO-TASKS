@@ -1,0 +1,546 @@
+May 13, 2026 3:10:27 PM util.LoggerUtil info
+INFO: Application started
+May 13, 2026 3:10:27 PM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 13, 2026 3:10:27 PM util.LoggerUtil error
+SEVERE: Error writing transactions : data\archive.bin (The system cannot find the path specified)
+May 13, 2026 3:10:27 PM util.LoggerUtil info
+INFO: Transaction written successfully
+May 13, 2026 3:11:01 PM util.LoggerUtil info
+INFO: Application started
+May 13, 2026 3:11:01 PM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 13, 2026 3:11:01 PM util.LoggerUtil info
+INFO: transaction written successfully
+May 13, 2026 3:11:01 PM util.LoggerUtil info
+INFO: File Size: 27000bytes
+May 13, 2026 3:11:01 PM util.LoggerUtil info
+INFO: Write Time : 3.6839 ms
+May 13, 2026 3:11:01 PM util.LoggerUtil info
+INFO: Transaction written successfully
+May 13, 2026 3:53:26 PM util.LoggerUtil info
+INFO: Application started
+May 13, 2026 3:53:26 PM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 13, 2026 3:53:26 PM util.LoggerUtil info
+INFO: transaction written successfully
+May 13, 2026 3:53:26 PM util.LoggerUtil info
+INFO: File Size: 27000bytes
+May 13, 2026 3:53:26 PM util.LoggerUtil info
+INFO: Write Time : 12.0204 ms
+May 13, 2026 3:53:26 PM util.LoggerUtil info
+INFO: End of file reached.
+May 13, 2026 3:53:26 PM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 13, 2026 3:53:26 PM util.LoggerUtil info
+INFO: File Name : archive.bin
+May 13, 2026 3:53:26 PM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 13, 2026 3:53:26 PM util.LoggerUtil info
+INFO: Read Time : 7.747 ms
+May 13, 2026 3:53:26 PM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: Application started
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: transaction written successfully
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: File Size: 27000bytes
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: Write Time : 9.7576 ms
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: End of file reached.
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: File Name : archive.bin
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: Read Time : 4.8583 ms
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: count verified: 1000
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: Amount Verification PASSED
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: Total Written Amount : 2.4909222693235453E7
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: Total Read Amount : 2.4909222693235453E7
+May 13, 2026 5:04:42 PM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: Buffered Write Time : 8.6737 ms
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: File Name : archive.bin
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: Read Time : 2.7971 ms
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: Amount Verification PASSED
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.5277375386079732E7
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.5277375386079732E7
+May 14, 2026 8:38:23 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: Buffered Write Time : 10.2072 ms
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: File Name : archive.bin
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: Read Time : 2.6484 ms
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: Amount Verification PASSED
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.4711280319237392E7
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.4711280319237392E7
+May 14, 2026 8:45:51 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: Archive File Size : 0 bytes
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: Buffered Write Time : 13.671 ms
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: File Name : archive.bin
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: Read Time : 4.4303 ms
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: Amount Verification PASSED
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.5780252313187037E7
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.5780252313187037E7
+May 14, 2026 8:51:49 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: Archive File Size : 0 bytes
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: Buffered Write Time : 12.7366 ms
+May 14, 2026 9:01:42 AM util.LoggerUtil error
+SEVERE: Unbuffered Write Error : data\archive_unbuffered.bin (The system cannot find the path specified)
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 3.326 ms
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: File Name : archive.bin
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: Read Time : 5.7503 ms
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: Amount Verification FAILED
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.4916910139213E7
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.5780252313187037E7
+May 14, 2026 9:01:42 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: Archive File Size : 0 bytes
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: Buffered Write Time : 10.508 ms
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 95.0614 ms
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: File Name : archive.bin
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: Read Time : 7.1592 ms
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: Amount Verification FAILED
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.4837791532464623E7
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.5780252313187037E7
+May 14, 2026 9:27:01 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 9:31:00 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:31:00 AM util.LoggerUtil info
+INFO: Buffered File Size : 0 bytes
+May 14, 2026 9:31:00 AM util.LoggerUtil info
+INFO: Unbuffered File Size : 0 bytes
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: Buffered Write Time : 11.9001 ms
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 165.7783 ms
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: File Name : archive.bin
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: Read Time : 6.0758 ms
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: Amount Verification FAILED
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.5000103691516038E7
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.5780252313187037E7
+May 14, 2026 9:31:01 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 9:31:43 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: Buffered Write Time : 20.5178 ms
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 162.802 ms
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: File Name : archive.bin
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: Read Time : 4.5115 ms
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: Amount Verification FAILED
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.516865605231721E7
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.5780252313187037E7
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: Buffered File Size : 0 bytes
+May 14, 2026 9:31:44 AM util.LoggerUtil info
+INFO: Unbuffered File Size : 0 bytes
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Buffered Write Time : 9.6187 ms
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 57.3786 ms
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: File Name : archive.bin
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Read Time : 4.8626 ms
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Amount Verification FAILED
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.518822882513628E7
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.5780252313187037E7
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Buffered File Size : 0 bytes
+May 14, 2026 9:31:52 AM util.LoggerUtil info
+INFO: Unbuffered File Size : 0 bytes
+May 14, 2026 9:32:06 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:32:06 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:32:06 AM util.LoggerUtil info
+INFO: Buffered Write Time : 13.3436 ms
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Buffered Write Time : 10.2821 ms
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 52.1918 ms
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: File Name : archive.bin
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Read Time : 4.0086 ms
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Amount Verification FAILED
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.5289355467952605E7
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.5780252313187037E7
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Buffered File Size : 0 bytes
+May 14, 2026 9:32:24 AM util.LoggerUtil info
+INFO: Unbuffered File Size : 0 bytes
+May 14, 2026 9:33:58 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: Buffered Write Time : 6.2371 ms
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 41.3884 ms
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: File Name : archive_buffered.bin
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: Read Time : 3.1911 ms
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: Amount Verification PASSED
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.492202460928474E7
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.492202460928474E7
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: Buffered File Size : 0 bytes
+May 14, 2026 9:33:59 AM util.LoggerUtil info
+INFO: Unbuffered File Size : 0 bytes
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:36:03 AM util.LoggerUtil error
+SEVERE: Buffered Write Error : data\archive_buffered.bin (The system cannot find the path specified)
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Buffered Write Time : 2.1132 ms
+May 14, 2026 9:36:03 AM util.LoggerUtil error
+SEVERE: Unbuffered Write Error : data\archive_unbuffered.bin (The system cannot find the path specified)
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 0.7194 ms
+May 14, 2026 9:36:03 AM util.LoggerUtil error
+SEVERE: Error reading transactions : data\archive_buffered.bin (The system cannot find the path specified)
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 0
+May 14, 2026 9:36:03 AM util.LoggerUtil error
+SEVERE: count verification failed
+May 14, 2026 9:36:03 AM util.LoggerUtil error
+SEVERE: Written Count : 1000
+May 14, 2026 9:36:03 AM util.LoggerUtil error
+SEVERE: Read Count : 0
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Amount Verification FAILED
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.480597186069796E7
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Total Read Amount : 0.0
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Buffered File Size : 0 bytes
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Unbuffered File Size : 0 bytes
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Buffered Write Time : 2.1132 ms
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 0.7194 ms
+May 14, 2026 9:36:03 AM util.LoggerUtil info
+INFO: Binary Transaction Archive Completed Successfully
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:36:16 AM util.LoggerUtil error
+SEVERE: Buffered Write Error : data\archive_buffered.bin (The system cannot find the path specified)
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Buffered Write Time : 6.0177 ms
+May 14, 2026 9:36:16 AM util.LoggerUtil error
+SEVERE: Unbuffered Write Error : data\archive_unbuffered.bin (The system cannot find the path specified)
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 1.3374 ms
+May 14, 2026 9:36:16 AM util.LoggerUtil error
+SEVERE: Error reading transactions : data\archive_buffered.bin (The system cannot find the path specified)
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 0
+May 14, 2026 9:36:16 AM util.LoggerUtil error
+SEVERE: count verification failed
+May 14, 2026 9:36:16 AM util.LoggerUtil error
+SEVERE: Written Count : 1000
+May 14, 2026 9:36:16 AM util.LoggerUtil error
+SEVERE: Read Count : 0
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Amount Verification FAILED
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.464541454526218E7
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Total Read Amount : 0.0
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Buffered File Size : 0 bytes
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Unbuffered File Size : 0 bytes
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Buffered Write Time : 6.0177 ms
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 1.3374 ms
+May 14, 2026 9:36:16 AM util.LoggerUtil info
+INFO: Binary Transaction Archive Completed Successfully
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Buffered Write Time : 19.6869 ms
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 79.9225 ms
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: File Name : archive_buffered.bin
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Read Time : 7.7201 ms
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Amount Verification PASSED
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.5490550777701892E7
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.5490550777701892E7
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Buffered File Size : 0 bytes
+May 14, 2026 9:37:07 AM util.LoggerUtil info
+INFO: Unbuffered File Size : 0 bytes
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Application started
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: 1000 transactions generated
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Buffered Write Time : 11.8391 ms
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Unbuffered Write Time : 77.5767 ms
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: End of file reached.
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Transactions read successfully.
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: File Name : archive_buffered.bin
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Total Transactions Read : 1000
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Read Time : 3.4739 ms
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Transactions Reconstructed : 1000
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: count verified: 1000
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Amount Verification PASSED
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Total Written Amount : 2.4580776550920058E7
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Total Read Amount : 2.4580776550920058E7
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: transaction verified successfully
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Buffered File Size : 27000 bytes
+May 14, 2026 9:39:33 AM util.LoggerUtil info
+INFO: Unbuffered File Size : 27000 bytes
